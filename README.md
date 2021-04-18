@@ -1,3 +1,3 @@
 # My Website
 
-MTHis is a reslly awesomewebsite
+This is a really awesome website
